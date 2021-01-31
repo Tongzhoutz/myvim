@@ -1,5 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =5
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/Users/tongzhou/.vim'
 let g:netrw_dirhist_5='/Users/tongzhou'
 let g:netrw_dirhist_4='/Users/tongzhou/Dropbox/2021_Spring'
 let g:netrw_dirhist_3='/Users/tongzhou/Dropbox/Research_Proposal/topics'
@@ -9,4 +10,3 @@ let g:netrw_dirhist_0='/Users/tongzhou'
 let g:netrw_dirhist_9='/Users/tongzhou/Dropbox/Paper'
 let g:netrw_dirhist_8='/Users/tongzhou/Dropbox/Papers'
 let g:netrw_dirhist_7='/Users/tongzhou/Dropbox/Research_Proposal/topics'
-let g:netrw_dirhist_6='/Users/tongzhou'
